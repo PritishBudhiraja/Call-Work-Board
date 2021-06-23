@@ -1,0 +1,46 @@
+.leftpane {
+  width: 5%;
+  height: 886px;
+  float: left;
+  border-collapse: collapse;
+  background: #5daae0;
+}
+.rightpane {
+  width: 95%;
+  height: 886px;
+  position: relative;
+  float: right;
+  border-collapse: collapse;
+  background: transparent
+    radial-gradient(closest-side at 50% 50%, #58687e 0%, #39495e 100%) 0% 0%
+    no-repeat padding-box;
+}
+.rightFreedaPane {
+  width: 95%;
+  height: 100%;
+  position: relative;
+  float: right;
+  border-collapse: collapse;
+  background: transparent
+    radial-gradient(closest-side at 50% 50%, #58687e 0%, #39495e 100%) 0% 0%
+    no-repeat padding-box;
+}
+.left-freeda-pane {
+  width: 80%;
+  height: 100%;
+  position: relative;
+  float: left;
+  border-collapse: collapse;
+  background: transparent
+    radial-gradient(closest-side at 50% 50%, #58687e 0%, #39495e 100%) 0% 0%
+    no-repeat padding-box;
+}
+.right-freeda-pane {
+  width: 20%;
+  height: 100%;
+  position: relative;
+  float: right;
+  border-collapse: collapse;
+  background-color: #2d4250;
+  min-height: 710px;
+}

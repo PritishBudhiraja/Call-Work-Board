@@ -1,0 +1,8 @@
+export const MY_RENDER_APP = Object.freeze({
+  FIRST_CARD: "FIRST",
+  SECOND_CARD: "SECOND",
+  THIRD_CARD: "THIRD",
+  FOURTH_CARD: "FOURTH",
+  FIFTH_CARD: "FIFTH",
+  SIXTH_CARD: "SIXTH",
+});

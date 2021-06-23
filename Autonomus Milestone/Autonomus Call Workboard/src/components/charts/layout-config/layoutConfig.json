@@ -1,0 +1,269 @@
+{
+  "0": {
+    "xs": {
+      "root": true,
+      "alignment": "vertical",
+      "height": "100%",
+      "width": "100%",
+      "spacing": "12",
+      "content": [
+        {
+          "height": "50%",
+          "width": "100%",
+          "alignment": "horizontal",
+          "content": [
+            {
+              "component": "FIRST",
+              "width": "33%",
+              "height": "100%"
+            },
+            {
+              "component": "SECOND",
+              "width": "33%",
+              "height": "100%"
+            },
+            {
+              "component": "THIRD",
+              "width": "33%",
+              "height": "100%"
+            }
+          ]
+        },
+        {
+          "height": "50%",
+          "width": "100%",
+          "alignment": "horizontal",
+          "content": [
+            {
+              "component": "FOURTH",
+              "width": "33%",
+              "height": "100%"
+            },
+            {
+              "component": "FIFTH",
+              "width": "33%",
+              "height": "100%"
+            },
+            {
+              "component": "SIXTH",
+              "width": "33%",
+              "height": "100%"
+            }
+          ]
+        }
+      ]
+    },
+    "sm": {
+      "root": true,
+      "alignment": "vertical",
+      "height": "100%",
+      "width": "100%",
+      "spacing": "12",
+      "content": [
+        {
+          "height": "50%",
+          "width": "100%",
+          "alignment": "horizontal",
+          "content": [
+            {
+              "component": "FIRST",
+              "width": "33%",
+              "height": "100%"
+            },
+            {
+              "component": "SECOND",
+              "width": "33%",
+              "height": "100%"
+            },
+            {
+              "component": "THIRD",
+              "width": "33%",
+              "height": "100%"
+            }
+          ]
+        },
+        {
+          "height": "50%",
+          "width": "100%",
+          "alignment": "horizontal",
+          "content": [
+            {
+              "component": "FOURTH",
+              "width": "33%",
+              "height": "100%"
+            },
+            {
+              "component": "FIFTH",
+              "width": "33%",
+              "height": "100%"
+            },
+            {
+              "component": "SIXTH",
+              "width": "33%",
+              "height": "100%"
+            }
+          ]
+        }
+      ]
+    },
+    "md": {
+      "root": true,
+      "alignment": "vertical",
+      "height": "100%",
+      "width": "100%",
+      "spacing": "12",
+      "content": [
+        {
+          "height": "50%",
+          "width": "100%",
+          "alignment": "horizontal",
+          "content": [
+            {
+              "component": "FIRST",
+              "width": "33%",
+              "height": "100%"
+            },
+            {
+              "component": "SECOND",
+              "width": "33%",
+              "height": "100%"
+            },
+            {
+              "component": "THIRD",
+              "width": "33%",
+              "height": "100%"
+            }
+          ]
+        },
+        {
+          "height": "50%",
+          "width": "100%",
+          "alignment": "horizontal",
+          "content": [
+            {
+              "component": "FOURTH",
+              "width": "33%",
+              "height": "100%"
+            },
+            {
+              "component": "FIFTH",
+              "width": "33%",
+              "height": "100%"
+            },
+            {
+              "component": "SIXTH",
+              "width": "33%",
+              "height": "100%"
+            }
+          ]
+        }
+      ]
+    },
+    "lg": {
+      "root": true,
+      "alignment": "vertical",
+      "height": "100%",
+      "width": "100%",
+      "spacing": "12",
+      "content": [
+        {
+          "height": "50%",
+          "width": "100%",
+          "alignment": "horizontal",
+          "content": [
+            {
+              "component": "FIRST",
+              "width": "33%",
+              "height": "100%"
+            },
+            {
+              "component": "SECOND",
+              "width": "33%",
+              "height": "100%"
+            },
+            {
+              "component": "THIRD",
+              "width": "33%",
+              "height": "100%"
+            }
+          ]
+        },
+        {
+          "height": "50%",
+          "width": "100%",
+          "alignment": "horizontal",
+          "content": [
+            {
+              "component": "FOURTH",
+              "width": "33%",
+              "height": "100%"
+            },
+            {
+              "component": "FIFTH",
+              "width": "33%",
+              "height": "100%"
+            },
+            {
+              "component": "SIXTH",
+              "width": "33%",
+              "height": "100%"
+            }
+          ]
+        }
+      ]
+    },
+    "xl": {
+      "root": true,
+      "alignment": "vertical",
+      "height": "100%",
+      "width": "100%",
+      "spacing": "12",
+      "content": [
+        {
+          "height": "50%",
+          "width": "100%",
+          "alignment": "horizontal",
+          "content": [
+            {
+              "component": "FIRST",
+              "width": "33%",
+              "height": "100%"
+            },
+            {
+              "component": "SECOND",
+              "width": "33%",
+              "height": "100%"
+            },
+            {
+              "component": "THIRD",
+              "width": "33%",
+              "height": "100%"
+            }
+          ]
+        },
+        {
+          "height": "50%",
+          "width": "100%",
+          "alignment": "horizontal",
+          "content": [
+            {
+              "component": "FOURTH",
+              "width": "33%",
+              "height": "100%"
+            },
+            {
+              "component": "FIFTH",
+              "width": "33%",
+              "height": "100%"
+            },
+            {
+              "component": "SIXTH",
+              "width": "33%",
+              "height": "100%"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

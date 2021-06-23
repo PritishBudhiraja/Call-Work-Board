@@ -1,0 +1,50 @@
+.container {
+  display: flex;
+  flex-wrap: nowrap;
+  align-content: space-around;
+  justify-content: space-evenly;
+  align-items: center;
+  flex: 1;
+}
+.to-and-finished-call {
+  display: flex;
+  flex-wrap: nowrap;
+  align-content: space-around;
+  align-items: center;
+  flex: 1;
+}
+.stats-on-customers {
+  display: flex;
+  flex-wrap: nowrap;
+  align-content: space-around;
+  justify-content: space-evenly;
+  align-items: center;
+  flex: 1;
+}
+.blue-color-call-heading {
+  text-align: center;
+  font: normal normal normal 18px/22px Roboto;
+  letter-spacing: 0.64px;
+  color: #5daae0;
+  opacity: 1;
+}
+.to-call-list {
+  text-align: center;
+  letter-spacing: 0.71px;
+  color: #ffffffa6;
+  opacity: 1;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+.total-pass-due-touched {
+  margin-left: 2%;
+  margin-right: 2%;
+}
+.total-customer-called {
+  margin-left: 2%;
+  margin-right: 2%;
+}
+.total-time-spent-on-call {
+  margin-left: 2%;
+  margin-right: 2%;
+}

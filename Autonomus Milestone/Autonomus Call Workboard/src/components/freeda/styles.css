@@ -1,0 +1,78 @@
+.freeda-icon-rotate {
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+  margin-right: 10%;
+  margin-left: 5%;
+}
+.freeda-chat {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-content: center;
+  align-items: center;
+  justify-content: flex-start;
+}
+.text-freeda {
+  text-align: left;
+  font: normal normal normal 17px Roboto;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 1;
+  white-space: wrap;
+}
+.me-icon-right {
+  float: right;
+  margin-right: 8%;
+}
+.pull-me-text {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-content: center;
+  align-items: center;
+  justify-content: space-between;
+  margin-left: 5%;
+}
+
+.walmart-freeda-icon {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-content: center;
+  justify-content: flex-start;
+  align-items: center;
+}
+.img-walmart {
+  margin-left: 5%;
+  margin-right: 10%;
+}
+.walmart-locations {
+  background: #5daae0 0% 0% no-repeat padding-box;
+  border-radius: 4px;
+  opacity: 0.2;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  align-content: center;
+  flex-wrap: nowrap;
+  flex-direction: row;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-bottom: 3%;
+}
+
+.walmart {
+  text-align: left;
+  font: normal normal bold 22px/27px Roboto;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 0.75;
+}
+.walmart-number {
+  text-align: right;
+  font: normal normal normal 18px/22px Roboto;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 0.5;
+  margin-right: 10%;
+}
